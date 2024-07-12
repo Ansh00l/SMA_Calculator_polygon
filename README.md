@@ -1,0 +1,1 @@
+# SMA_Calculator_polygon
